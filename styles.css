@@ -115,6 +115,7 @@ body {
   height: 26px;
 }
 
+
 .plan-title {
   display: flex;
   flex-direction: column;
@@ -122,10 +123,13 @@ body {
   min-width: 0;
   flex: 1;
   margin: 0;
+  font-family: inherit;
   font-size: 1.08rem;
   line-height: 1.2;
   letter-spacing: -0.02em;
+  font-weight: 400;
 }
+
 
 .plan-label,
 .plan-price {
